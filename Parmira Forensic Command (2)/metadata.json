@@ -1,0 +1,5 @@
+{
+  "name": "Parmira Forensic Command",
+  "description": "High-fidelity digital twin forensic dashboard for identifying physics breaches in Parmira simulations using Python-driven audit and AI visual reconstruction.",
+  "requestFramePermissions": []
+}
