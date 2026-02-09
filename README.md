@@ -1,7 +1,7 @@
-🛸 Parmira
+# 🛸 Parmira
 
 Parmira is an AI forensic tool designed to analyze hardware simulation failures. Instead of manually digging through telemetry logs to figure out why a drone crashed or a motor stalled, you feed the data to Parmira, and it uses Gemini 3 to find the exact point where the physics broke.
-🛠 How it works
+# 🛠 How it works
 
     Data Ingestion: Paste raw telemetry or execution logs from your simulation.
 
@@ -13,12 +13,12 @@ Parmira is an AI forensic tool designed to analyze hardware simulation failures.
 
 Youtube link : https://youtu.be/YkfZffaEGOU
 
-🚀 Setup
+# 🚀 Setup
 
-# Clone the repo
+Clone the repo
 https://github.com/Pavithra-Madhan/Parmira
 
-🧠 Key Tech
+# 🧠 Key Tech
 
     Gemini 3 API: Handles the multi-step reasoning and root-cause analysis.
 
@@ -26,7 +26,7 @@ https://github.com/Pavithra-Madhan/Parmira
 
     ReactLoop Strategy: Ensures high accuracy by forcing the model to verify its own logic across multiple passes.
 
-# Note:
+## Note:
 
 The files fix.py and drone.py are for testing the prototype. 
 
